@@ -205,7 +205,18 @@ a.social:hover {
 
 }
 
-.hobbies {
+.title {
+   text-align: center;
+   font-family: Arial;
+   color: black;
+   background-color: lightpink;
 
-  color: black;
+}
+
+.experiance {
+   text-align: center;
+   color: black;
+   margin: auto;
+   background-color: lightpink;
+
 }
