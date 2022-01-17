@@ -203,20 +203,17 @@ a.social:hover {
     margin: 40px auto;
   }
 
-}
-
 .title {
    text-align: center;
    font-family: Arial;
    color: black;
-   background-color: lightpink;
-
-}
-
-.experiance {
-   text-align: center;
+ }
+ .experiance {
+   text-align: left;
    color: black;
-   margin: auto;
-   background-color: lightpink;
-
+ }
+ .h2 Experiance {
+   text-align: left;
+  color: black;
+ }
 }
